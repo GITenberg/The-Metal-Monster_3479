@@ -1,0 +1,36 @@
+_repo: The-Metal-Monster_3479
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merritt, Abraham
+    alias: Merritt, A. (Abraham)
+    birthdate: 1884
+    deathdate: 1943
+    gutenberg_agent_id: '403'
+    url: http://www.gutenberg.org/2009/agents/403
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Merritt
+description: '""Dr. Goodwin is on a botanical expedition in the Himalayas. There he
+  meets Dick Drake, the son of one of his old science acquaintances. They are witnesses
+  of a strange aurora-like effect, but seemingly a deliberate one. As they go out
+  to investigate, they meet Goodwin''s old friends Martin and Ruth Ventnor, brother
+  and sister scientists. The two are besieged by Persians as Darius III led when Alexander
+  of Macedon conquered them more than two thousand years ago. The group is saved by
+  a magnificent woman they get to know as Norhala. She commands the power of lightning
+  and controls str.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tibet Autonomous Region (China) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- GITenberg
+title: The Metal Monster
+url: http://www.gutenberg.org/ebooks/3479
