@@ -1,5 +1,8 @@
 _repo: The-Metal-Monster_3479
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Merritt, Abraham
@@ -17,6 +20,8 @@ description: '""Dr. Goodwin is on a botanical expedition in the Himalayas. There
   of Macedon conquered them more than two thousand years ago. The group is saved by
   a magnificent woman they get to know as Norhala. She commands the power of lightning
   and controls str.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3479#The-Metal-Monster
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
